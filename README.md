@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fxtack&bg_color=30,A5CCC2,904e95&show_icons=true&&title_color=fff&text_color=fff&theme=cobalt2">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fxtack&show_icons=true&theme=dark">
 
 ### 🥥 Hello I'm fxtack
 
